@@ -4,12 +4,12 @@ import pandas as pd
 import time
 
 # Configurações da API da Binance
-API_KEY = "WGppsqHCM893qJD9IeAx20SzEw5Ewdb1IzUBzS0r9gHZRiAP8LPbtK3l1RWqwQKZ"
+API_KEY = "7433321732:AAEFuPHV7nTsMEsCnglkYWGbCvJNoxiKe1g"
 API_SECRET = "QrPiz5LYJS20oRJZb3JX7W5Ts7Bd7WrZ36PlG389JaHrfxHv0Th0Jd0uTZd345cB"
 
 # Token do bot do Telegram e chat_id
 TELEGRAM_TOKEN = "7433321732:AAEFuPHV7nTsMEsCnglkYWGbCvJNoxiKe1g"
-CHAT_ID = "SEU_CHAT_ID_AQUI"  # Substitua pelo seu chat_id
+CHAT_ID = "@Ananilsesr_bot:"  # Substitua pelo seu chat_id
 
 client = Client(API_KEY, API_SECRET)
 
